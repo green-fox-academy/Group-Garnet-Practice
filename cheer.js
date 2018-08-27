@@ -1,5 +1,6 @@
 const name = 'Java hello hello  Script';
 
 function cheer() {
-  console.log(`Group ${name}!!!`);
+  console.log(`Cheer for the ${name}!!!`);
 }
+cheer();
