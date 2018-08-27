@@ -1,3 +1,3 @@
-function count() {
-    console.log('25');
+function count(age) {
+    console.log(age);
 }
