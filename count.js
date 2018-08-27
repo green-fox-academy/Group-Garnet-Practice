@@ -1,7 +1,8 @@
-function count(age1, age2) {
-    console.log('age1');
-    console.log(age2);
+function count(parameter) {
+    console.log(`Counting the countless ${parameter}`);
 }
 
 const age = '1 2 3fdasfsdfasfdasfasdf masdfasfadsdfsfasfsdfdasfsfasasfu tou ren!!!';
-count(age,'123');
+
+count(age);
+
