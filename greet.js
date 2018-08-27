@@ -1,4 +1,4 @@
-const greet = (e) => {
-    console.log(e);
+const greet = (element) => {
+    console.log(element);
 }
 greet('Greetings!');
