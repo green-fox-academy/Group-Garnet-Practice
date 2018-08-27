@@ -1,4 +1,4 @@
 const greet = (element) => {
-    console.log(element);
+    console.log(`Greetings for the ${element}`);
 }
-greet('Greetings!');
+greet('World!');
