@@ -1,3 +1,5 @@
+const name = 'Garnet';
+
 function cheer() {
-  console.log('Group Garnet!!!');
+  console.log(`Group ${name}!!!`);
 }
