@@ -1,5 +1,4 @@
-const greet = () => {
-    console.log('Allan Cai');
+const greet = (e) => {
+    console.log(e);
 }
-
-greet();
+greet('Allan Cai');
